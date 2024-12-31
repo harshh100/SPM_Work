@@ -30,12 +30,18 @@ I welcome Your contributions.
 
 **home**
 <img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/home.jpeg">
+
 **aboutus**
 <img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/aboutus.jpeg">
+
 **menu**
 <img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/menu.jpeg">
-**order**
-<img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/order.jpeg">
+
+**login**
+<img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/login.jpeg">
+
+**cart**
+<img width="1000" alt="image" src="https://github.com/harshh100/SPM_Work/blob/main/cart.jpeg">
 
 ## Authors
 
